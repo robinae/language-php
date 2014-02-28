@@ -1,18 +1,18 @@
 {
-  "name": "language-php",
+  "name": "robin-language-php",
   "version": "0.8.0",
   "description": "PHP language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-php",
+  "homepage": "http://github.com/robinae/language-php",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-php.git"
+    "url": "https://github.com/robinae/language-php"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/textmate/php.tmbundle/issues"
+    "url": "https://github.com/robinae/language-php/issues"
   }
 }
